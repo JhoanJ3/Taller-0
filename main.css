@@ -1,0 +1,7 @@
+.puntos-taller{
+    display: flex;
+    flex-direction: column;
+}
+p {
+    margin: 10px;
+}
